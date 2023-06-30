@@ -86,6 +86,4 @@ Once the Laravel Todo App is up and running, you can start using it to manage yo
    - To mark a task as completed, simply click on the checkbox next to the task.
    - To edit or delete a task, click on the task itself to open the task details page. From there, you can make the desired changes.
 
-That's it! You can now register as a user, log in, and access the admin portal (if necessary) to manage users. Use the provided admin credentials to access the admin portal.
 
-Remember to change the superuser credentials and promote regular users to admin status as needed for your application's user management.
